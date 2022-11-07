@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5a9c60a-c419-4512-a0e1-783537429ec4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/java/com/codegym/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/java/com/codegym/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/java/com/codegym/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/resources/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/resources/message_haw.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/webapp/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session13/Login/src/main/webapp/WEB-INF/views/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/java/com/codegym/configuration/CustomSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/java/com/codegym/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/java/com/codegym/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/java/com/codegym/security/SecurityInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/webapp/WEB-INF/views/accessDenied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/webapp/WEB-INF/views/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/webapp/WEB-INF/views/dba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/spring-role-based-authorization/src/main/webapp/WEB-INF/views/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/SecurityInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/controller/UserRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/rest/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/rest/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/rest/RestAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session15/springmvc_jwt_demo/src/main/java/com/codegym/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/java/com/codegym/cms/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/java/com/codegym/cms/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/java/com/codegym/cms/service/customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/resources/templates/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/resources/templates/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/resources/templates/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/customer-management/src/main/resources/templates/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/demo-spring-boot/src/main/java/com/codegym/demospringboot/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session16/demo-spring-boot/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/CustomerManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/configuration/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/service/impl/CustomerServiceImplWithSpringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/java/com/codegym/service/impl/ProvinceServiceImplWithSpringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/resources/templates/customers/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/main/resources/templates/customers/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/customer-management/src/test/java/com/codegym/CustomerManagementApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/controller/UserRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/rest/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/rest/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/rest/RestAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codegym_module4_session17/springboot-jwt-demo/src/main/java/com/codegym/springbootjwtdemo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_cookie/demo/src/main/java/com/example/CookieApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_cookie/demo/src/main/java/com/example/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_cookie/demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_cookie/demo/src/main/resources/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_cookie/demo/src/main/resources/templates/fragments/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_cookie/demo/src/main/resources/templates/fragments/home1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/config/AppSecConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/config/AppSecInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/config/custom/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/config/custom/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/config/custom/RestAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/model/AppRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/model/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/model/DTO/ICountRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/model/DTO/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/model/DTO/UserPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/repo/IAppRoleRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/repo/IAppUserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/service/approle/AppRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/service/approle/IAppRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/service/appuser/AppUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/service/appuser/IAppUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_backend/src/main/java/com/codegym/demo_backend/service/jwt/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module4-session4/.idea/module4-session4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Greeting/src/main/java/com/example/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Greeting/src/main/java/com/example/controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Greeting/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Greeting/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Greeting/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Greeting/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Greeting/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring Greeting/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_1.3_Currency conversion/src/main/java/com/example/controller/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_1.3_Currency conversion/src/main/java/com/example/controller/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_1.3_Currency conversion/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_1.3_Currency conversion/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/java/com/codegym/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/java/com/codegym/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/views/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.1_Maven-Email/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.3_ spring-timezone/src/main/java/com/codegym/controller/TimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.3_ spring-timezone/src/main/java/com/codegym/controller/TimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.3_ spring-timezone/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.3_ spring-timezone/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.3_ spring-timezone/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.3_ spring-timezone/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/src/main/java/com/codegym/controller/TimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/src/main/java/com/codegym/controller/TimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.4_spring-timezone-maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/controller/DictionaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/controller/DictionaryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/dao/DictionaryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/dao/DictionaryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/dao/IDictionaryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/dao/IDictionaryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/model/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/java/com/example/model/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/views/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.5_dictionary/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/java/com/example/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/java/com/example/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/java/com/example/config/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/java/com/example/config/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/java/com/example/controller/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/java/com/example/controller/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/webapp/WEB-INF/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/webapp/WEB-INF/views/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.6_Sandwich/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.7_Calculator/src/main/java/com/example/controller/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.7_Calculator/src/main/java/com/example/controller/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.7_Calculator/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.7_Calculator/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_2.7_Calculator/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_2.7_Calculator/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/configuration/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/configuration/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/service/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/java/com/example/service/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.1_customer_management_thymleaf/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/configuration/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/configuration/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/java/com/example/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../codegym_module4_3.2_product-management/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/service/CustomerServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/service/CustomerServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/service/impl/SimpleCustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/java/com/example/service/impl/SimpleCustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/webapp/WEB-INF/app-conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/webapp/WEB-INF/app-conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/webapp/customers/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/webapp/customers/info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/webapp/customers/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/webapp/customers/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/main/java/com/example/controller/InputProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/controller/InputProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/main/java/com/example/model/ProductForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/example/model/ProductForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/configuration/AppConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/configuration/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/configuration/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/java/com/example/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demoThymeleaf/src/main/webapp/WEB-INF/views/switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demoThymeleaf/src/main/webapp/WEB-INF/views/switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email-validate-gradle/src/main/java/com/codegym/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validate-gradle/src/main/java/com/codegym/controller/EmailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email-validate-gradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validate-gradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email-validate-gradle/src/main/webapp/WEB-INF/views/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../email-validate-gradle/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huy/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huy/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module4-session4/spring-mvc-form-tutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module4-session4/spring-mvc-form-tutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/cleanCode/src/Demo1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/cleanCode/src/Demo1/MonthInYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/cleanCode/src/demo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/cleanCode/src/demo2/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/cleanCode/src/demo3/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/cleanCode/src/demo3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/demo/src/ReadFileBufferedReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/demo/src/ReadFileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/demo/src/ReadFileScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../modun2/demo/src/data.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HEuwf7q7R6TS86Oq4YvfDGqHUy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/duonghieu/codegym/module4/demo_springboot_jwt/demo_fontend",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5a9c60a-c419-4512-a0e1-783537429ec4" name="Changes" comment="" />
+      <created>1667862803728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667862803728</updated>
+      <workItem from="1667862804897" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
